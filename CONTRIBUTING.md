@@ -20,7 +20,7 @@ Once you've got your folder laid out ready for upload, here's how you can add it
 7. Type `git add .` and hit enter.
 8. Type `git commit -m "Adding my own custom car"` and hit enter (or use whatever message you want after the `-m`).
 9. Type `git push origin master` and hit enter.
-  * At this point, you will likely be asked to login to Github.
+   * At this point, you will likely be asked to login to Github.
 10. Once the push has finished, [create a Pull Request (PR)](https://github.com/Californ1a/custom-cars/compare) and click on `compare across forks`.
 11. In the `head repository` drop-down, select `YourName/custom-cars`.
 12. Hit the green `Create pull request` button, and then on the next page, the green `Create pull request` button again.
